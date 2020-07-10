@@ -1,6 +1,35 @@
-# tips
+# Tips
+This flutter app will help you split bills and calculate the tip.
 
-A new Flutter project.
+![tip](https://user-images.githubusercontent.com/21191226/87147280-f9992600-c2c9-11ea-9bb7-355156463686.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
@@ -14,3 +43,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
